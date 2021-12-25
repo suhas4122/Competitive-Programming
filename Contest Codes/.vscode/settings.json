@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "iostream": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp",
+        "ratio": "cpp"
+    }
+}

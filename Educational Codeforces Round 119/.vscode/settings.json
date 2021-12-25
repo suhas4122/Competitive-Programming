@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "string": "cpp",
+        "climits": "cpp"
+    }
+}

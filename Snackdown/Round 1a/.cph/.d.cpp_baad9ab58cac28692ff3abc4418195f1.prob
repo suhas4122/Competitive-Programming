@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"/home/suhas/Desktop/Competitive/Snackdown/Round 1a/d.cpp","tests":[{"id":1634977502096,"input":"2\n3\n4 2 6\n4\n-2 4 -2 4","output":"2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive/Snackdown/Round 1a/d.cpp","group":"local","local":true}
