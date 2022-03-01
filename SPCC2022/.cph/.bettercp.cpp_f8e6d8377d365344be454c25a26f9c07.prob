@@ -1,0 +1,1 @@
+{"name":"Local: bettercp","url":"/home/suhas/Competitive-Programming/SPCC2022/bettercp.cpp","tests":[{"id":1641904323717,"input":"3\n3\n1 2 3\n3\n8 4 2\n4\n0 0 0 0","output":"5\n6\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Competitive-Programming/SPCC2022/bettercp.cpp","group":"local","local":true}
