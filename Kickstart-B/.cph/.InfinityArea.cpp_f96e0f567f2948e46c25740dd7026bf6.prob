@@ -1,0 +1,1 @@
+{"name":"Local: InfinityArea","url":"/home/suhas/Competitive-Programming/Kickstart-B/InfinityArea.cpp","tests":[{"id":1650755345143,"input":"2\n1 3 6\n5 2 5","output":"Case #1: 31.415927\nCase #2: 455.530935"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Competitive-Programming/Kickstart-B/InfinityArea.cpp","group":"local","local":true}
