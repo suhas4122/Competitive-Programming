@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"/home/suhas/Desktop/Competitive-Programming/May Lunchtime 2022/E.cpp","tests":[{"id":1652627852541,"input":"6 4\n5 1 3 2 4 6\n1 2\n2 3\n1 5\n3 6","output":"2\n1\n5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/May Lunchtime 2022/E.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: XORMax","url":"/home/suhas/Desktop/Competitive-Programming/Algozenith/XORMax.cpp","tests":[{"id":1654234609422,"input":"12\n? 4\n+ 4\n? 4\n+ 4\n? 3\n- 4\n- 4\n? 3\n+ 4\n? 4\n+ 1\n+ 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/Algozenith/XORMax.cpp","group":"local","local":true}

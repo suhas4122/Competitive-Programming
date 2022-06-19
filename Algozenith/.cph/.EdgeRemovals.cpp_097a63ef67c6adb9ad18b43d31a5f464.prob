@@ -1,0 +1,1 @@
+{"name":"Local: EdgeRemovals","url":"/home/suhas/Desktop/Competitive-Programming/Algozenith/EdgeRemovals.cpp","tests":[{"id":1654161329328,"input":"3 3 5\n1 2\n2 3\n3 1\n2\n1 2\n2\n1 1\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/Algozenith/EdgeRemovals.cpp","group":"local","local":true}

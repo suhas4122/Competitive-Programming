@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/suhas/Desktop/Competitive-Programming/GOC #12/C.cpp","tests":[{"id":1653142402939,"input":"2\n2 2\n1 1\n2 2\nLD\nRD\n3 3\n3 2\n1 3\nLRD\nULL\nDRL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/GOC #12/C.cpp","group":"local","local":true}

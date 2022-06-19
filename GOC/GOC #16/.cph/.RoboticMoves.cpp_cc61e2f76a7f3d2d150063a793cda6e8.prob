@@ -1,0 +1,1 @@
+{"name":"Local: RoboticMoves","url":"/home/suhas/Desktop/Competitive-Programming/GOC/GOC #16/RoboticMoves.cpp","tests":[{"id":1654908569615,"input":"1\n8\n3 L\n5 R\n9 R\n7 R\n2 L\n6 L\n8 R\n12 L","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/GOC/GOC #16/RoboticMoves.cpp","group":"local","local":true}

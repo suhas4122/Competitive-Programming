@@ -1,0 +1,1 @@
+{"name":"Local: FourReversals","url":"/home/suhas/Desktop/Competitive-Programming/Algozenith/FourReversals.cpp","tests":[{"id":1653591519882,"input":"2\nabacde\nbeacda\nabcdef\nabdefc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suhas/Desktop/Competitive-Programming/Algozenith/FourReversals.cpp","group":"local","local":true}
